@@ -12,7 +12,8 @@
 |----------|-------------------|
 | Beecrowd | ![Beecrowd](https://img.shields.io/badge/Beecrowd-19-blue?style=flat-square) |
 | LeetCode | ![LeetCode](https://img.shields.io/badge/LeetCode-0-orange?style=flat-square) |
-| **Total** | ![Total](https://img.shields.io/badge/Total-19-brightgreen?style=flat-square) |
+|Exercises | ![Exercises](https://img.shields.io/badge/Exercises-1-purple?style=flat-square) |
+| **Total** | ![Total](https://img.shields.io/badge/Total-20-brightgreen?style=flat-square) |
 
 ---
 
@@ -24,6 +25,9 @@ competitive-programming/
 │   ├── 1013-the-greatest.cpp
 │   └── ...
 ├── leetcode/
+│   └── ...
+├── exercises/
+│   ├── filter/
 │   └── ...
 └── README.md
 ```
